@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklara_api_vue"]=self["webpackChunklara_api_vue"]||[]).push([[443],{833:function(a,n,u){u.r(n),u.d(n,{default:function(){return f}});var e=u(3396);const r={class:"about"},t=(0,e._)("h1",null,"This is an about page",-1),s=[t];function i(a,n){return(0,e.wg)(),(0,e.iD)("div",r,s)}var c=u(89);const l={},o=(0,c.Z)(l,[["render",i]]);var f=o}}]);
+//# sourceMappingURL=about.ab665d1e.js.map
